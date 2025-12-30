@@ -1,0 +1,16 @@
+ID_Pedido,Fecha_Pedido,Cliente,Producto,Cantidad,Precio_Unitario,Total_Linea,Estado_Pedido,Comercial
+1001,2024-01-10,Cliente A,Producto X,5,10.00,50.00,Confirmado,Juan Pérez
+1002,2024-01-15,Cliente B,Producto Y,2,25.00,50.00,Confirmado,Ana García
+1003,2024-01-20,Cliente A,Producto Z,3,15.00,45.00,Confirmado,Juan Pérez
+1004,2024-02-05,Cliente C,Producto X,10,10.00,100.00,Confirmado,Carlos Ruiz
+1005,2024-02-12,Cliente B,Producto Y,1,25.00,25.00,Borrado,Ana García
+1006,2024-02-28,Cliente A,Producto W,4,30.00,120.00,Confirmado,Juan Pérez
+1007,2024-03-01,Cliente D,Producto Z,7,15.00,105.00,Confirmado,Carlos Ruiz
+1008,2024-03-10,Cliente C,Producto X,2,10.00,20.00,Cancelado,Carlos Ruiz
+1009,2024-03-18,Cliente D,Producto Y,6,25.00,150.00,Confirmado,Carlos Ruiz
+1010,2024-03-25,Cliente A,Producto Z,1,15.00,15.00,Confirmado,Juan Pérez
+1011,2024-04-02,Cliente B,Producto X,3,10.00,30.00,Confirmado,Ana García
+1012,2024-04-15,Cliente E,Producto W,2,30.00,60.00,Confirmado,Juan Pérez
+1013,2024-04-20,Cliente F,Producto Y,4,25.00,100.00,Confirmado,Ana García
+1014,2024-05-01,Cliente A,Producto X,5,10.00,50.00,Confirmado,Juan Pérez
+1015,2024-05-10,Cliente C,Producto Z,8,15.00,120.00,Confirmado,Carlos Ruiz
